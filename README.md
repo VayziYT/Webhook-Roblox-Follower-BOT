@@ -1,7 +1,7 @@
 
 # Roblox Credential Logger (Educational Purposes)
 
-![Preview](https://imgur.com/a/UE6YfJn)  
+https://imgur.com/a/UE6YfJn
 *This is how it looks like*
 
 ## 📜 Description
